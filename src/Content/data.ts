@@ -1,7 +1,7 @@
 const data = {
-    bio: 'Desenvolvedor Front-end apaixonado por tecnologia e artes.',
-    linkedin: 'https://linkedin.com/in/augustolimads/',
-    github: 'https://github.com/augustolimads',
+    bio: 'Im just a man with a little bity plan.',
+    linkedin: 'https://linkedin.com/in/doc22940/',
+    github: 'https://github.com/22940dev',
     resume: 'document/cv_augusto-lima-2021.pdf',
 }
 
